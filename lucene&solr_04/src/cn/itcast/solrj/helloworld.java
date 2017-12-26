@@ -4,5 +4,6 @@ public class helloworld {
 	public static void main(String[] args) {
 		System.out.println("哇哈哈");
 		System.out.println("不爱你了");
+		System.out.println("从前爱你");
 	}
 }
